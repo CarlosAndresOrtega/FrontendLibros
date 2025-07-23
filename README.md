@@ -1,7 +1,7 @@
 
 # 📚 Book Scraper – Frontend
 
-Este es el frontend de la aplicación Book Scraper, desarrollada con Angular 17, TailwindCSS y PrimeNG. Su objetivo es consumir el backend para visualizar libros extraídos de páginas externas, con opciones de búsqueda y filtrado por autor o género.
+Este es el frontend de la aplicación Book Scraper, desarrollada con Angular 19, TailwindCSS y PrimeNG. Su objetivo es consumir el backend para visualizar libros extraídos de páginas externas, con opciones de búsqueda y filtrado por autor o género.
 
 ## 🚀 Stack Tecnológico
 
